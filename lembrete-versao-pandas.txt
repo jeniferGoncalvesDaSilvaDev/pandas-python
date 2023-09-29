@@ -1,0 +1,3 @@
+lembrete da atualizaçao do pandas 
+pandas.concat instead.
+  vendas_de_dezembro_df.append(comissao_dezembro)
